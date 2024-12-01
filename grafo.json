@@ -1,0 +1,36 @@
+{
+    "nodes": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+    ],
+    "edges": [
+        {
+            "source": "A",
+            "target": "B",
+            "weight": 2
+        },
+        {
+            "source": "A",
+            "target": "C",
+            "weight": 5
+        },
+        {
+            "source": "B",
+            "target": "D",
+            "weight": 1
+        },
+        {
+            "source": "C",
+            "target": "D",
+            "weight": 4
+        },
+        {
+            "source": "D",
+            "target": "E",
+            "weight": 3
+        }
+    ]
+}
